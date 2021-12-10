@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\Homework 1 23_11_21.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\Homework 1 23_11_21.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\Homework 1 23_11_21.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\Homework 1 23_11_21.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\ref\Homework 1 23_11_21.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\bin\Debug\net6.0\Homework 1 23_11_21.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\ref\Homework 1 23_11_21.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework 1 23_11_21\Homework 1 23_11_21\obj\Debug\net6.0\Homework 1 23_11_21.genruntimeconfig.cache
